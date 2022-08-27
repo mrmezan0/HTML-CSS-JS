@@ -1,4 +1,4 @@
-# 50 Days 50 Project
+# 50 Days 50 Project ![](https://img.shields.io/badge/Server-Running-brightgreen) ![](https://img.shields.io/badge/Build-Passed-brightgreen)
 
 ###### Only HTML CSS & JavaScript
 
@@ -52,3 +52,5 @@
 
 - Fetching changes from github: `git fetch`
 - Merging changes from github: `git merge`
+
+
